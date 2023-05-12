@@ -5,7 +5,7 @@
     },
     {
       "q" : "What are the steps involved in the incident response process?",
-      "a" : " - Preparation \n - Identification \n - Containment \n - Eradication \n - Recovery \n - Lessons learned"
+      "a" : " - Preparation `${\n}` - Identification - ${\n}Containment ${<br></br>} - Eradication `${<br></br>}` - Recovery - Lessons learned"
     },
     { 
       "q" : "What is NIST?",
