@@ -6,5 +6,9 @@
     { 
       "q" : "What is NIST?",
       "a" : "A cyber security framework"
+    },
+    {
+      "q" : "What is the difference between IaaS and PaaS?",
+      "a" : "IaaS products allow organizations to manage their business resources - such as their network, servers, and data storage - on the cloud. PaaS products allow businesses and developers to host, build, and deploy consumer facing apps."
     }
 ]
