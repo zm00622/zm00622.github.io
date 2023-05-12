@@ -1,7 +1,11 @@
 [
     {
-      "q" : "What is chromatin?",
-      "a" : "DNA bound to protien and contained in the nucleus of a cell."
+      "q" : "What are the steps involved in the incident response process?",
+      "a" : " - Preparation - Identification - Containment - Eradication - Recovery - Lessons learned"
+    },
+    {
+      "q" : "What are the steps involved in the incident response process?",
+      "a" : " - Preparation \n - Identification \n - Containment \n - Eradication \n - Recovery \n - Lessons learned"
     },
     { 
       "q" : "What is NIST?",
