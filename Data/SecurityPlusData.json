@@ -10,15 +10,15 @@
     {
       "q" : "What is the difference between IaaS and PaaS?",
       "a" : "IaaS products allow organizations to manage their business resources - such as their network, servers, and data storage - on the cloud. PaaS products allow businesses and developers to host, build, and deploy consumer facing apps."
-    }
+    },
     {
        "q" : "Control Frameworks",
        "a" : "Examples of control frameworks in cybersecurity include the Center for Internet Security (CIS) Controls, which consists of 20 critical security controls, and the Payment Card Industry Data Security Standard (PCI DSS), which provides a set of requirements for securing credit card data and transactions."
-    }
+    },
     {
     "q" : "Program Frameworks",
     "a" : "Program frameworks function as a roadmap for building and maintaining a strong cybersecurity program. Common cybersecurity frameworks include NIST, CIS, and ISO/IEC 27001."
-    }
+    },
     {
     "q" : "Risk Frameworks",
     "a" : "Risk frameworks in cybersecurity are essential tools used by organizations to identify, assess, and manage cybersecurity risks. They provide a structured approach to risk management, allowing organizations to identify and prioritize potential threats."
