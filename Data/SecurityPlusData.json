@@ -1,62 +1,85 @@
-[
-    {
-      "q" : "What are the steps involved in the incident response process?",
-      "a" : " - Preparation <br></br>- Identification <br></br>- Containment <br></br>- Eradication <br></br>- Recovery <br></br>- Lessons learned"
-    },
+{
+  "categories" : [
     { 
-      "q" : "What is NIST?",
-      "a" : "A cyber security framework"
-    },
-    {
-      "q" : "What is the difference between IaaS and PaaS?",
-      "a" : "IaaS products allow organizations to manage their business resources - such as their network, servers, and data storage - on the cloud. PaaS products allow businesses and developers to host, build, and deploy consumer facing apps."
-    },
-    {
-       "q" : "Control Frameworks",
-       "a" : "Examples of control frameworks in cybersecurity include the Center for Internet Security (CIS) Controls, which consists of 20 critical security controls, and the Payment Card Industry Data Security Standard (PCI DSS), which provides a set of requirements for securing credit card data and transactions."
-    },
-    {
-    "q" : "Program Frameworks",
-    "a" : "Program frameworks function as a roadmap for building and maintaining a strong cybersecurity program. Common cybersecurity frameworks include NIST, CIS, and ISO/IEC 27001."
-    },
-    {
-    "q" : "Risk Frameworks",
-    "a" : "Risk frameworks in cybersecurity are essential tools used by organizations to identify, assess, and manage cybersecurity risks. They provide a structured approach to risk management, allowing organizations to identify and prioritize potential threats."
-    },
-    {
-      "q" : "What is the Public Cloud model?",
-      "a" : "This model is applied when public cloud service providers make computing services—including compute and storage, develop-and-deploy environments, and applications—available on-demand to organizations and individuals over the public internet."
-    },
-    {
-      "q" : "What is the Community Cloud model?",
-      "a" : "Community Cloud allows system and services to be accessible by group of organizations. In this model, the infrastructure is shared between several organizations from a specific community. It may be managed internally by organizations or by the third-party."
-    },
-    {
-      "q" : "What is the Private Cloud model?",
-      "a" : "A Private Cloud is a model of cloud computing where the infrastructure is dedicated to a single user organization. A private cloud can be hosted either at an organization’s own data center, at a third party colocation facility, or via a private cloud provider who offers private cloud hosting services "
-    },
-    {
-      "q" : "What is the Hybrid Cloud Model?",
-      "a" : "The Hybrid Cloud model consists of public and private clouds that the end user or organization has access to. The public version of the cloud, and the private version of the cloud may provide different services that compliment one-another."
-    },
-    {
-      "q" : "What is the difference between an MSP and an MSSP?",
-      "a" : "An MSP ensures your IT infrastructure and systems are operational, while an MSSP will ensure that your people and systems are both safe and compliant. An MSSP will also step in to help with incident detection and response."
-    },
-    {
-      "q" : "What is the difference between Fog Computing and Edge Computing?",
-      "a" : "Fog computing takes place further away (in physical distance) from the systems that are generating data. On the other hand, Edge computing takes place right on the devices attached to the sensors or systems generating the data, or in some cases, on a gateway device that is physically close to the point of data creation. Edge Computing is closer to the application, whereas Fog Computing is closer the main server(s) / processor(s) powering the applications."
-    },
-    {
-      "q" : "What might SDN stand for?",
-      "a" : "Software-Defined Networking (SDN) is an approach to networking that uses software-based controllers or application programming interfaces (APIs) to communicate with underlying hardware infrastructure and direct traffic on a network. This model differs from that of traditional networks, which use dedicated hardware devices (i.e., routers and switches) to control network traffic. SDN can create and control a virtual network or control traditional hardware via software."
-    },
-    {
-      "q" : "What might SDV Stand For?",
-      "a" : "Software Defined Visibility - This is a framework that allows customers, security partners, managed service providers and others to automate detection, reaction and response to threats and programmatically adapt security policies to network changes. SDV utilizes software to make parst of the network visible and adaptable."
-    },
-    {
-      "q" : "What is Virtual Machine escape or VM Escape?",
-      "a" : "Virtual Machine escape is the process of a program breaking out of the virtual machine on which it is running and interacting with the host operating system."
+      "name": "RandomSecurityPlusQuestions",
+      "questions": [
+        {
+          "q" : "What are the steps involved in the incident response process?",
+          "a" : " - Preparation <br></br>- Identification <br></br>- Containment <br></br>- Eradication <br></br>- Recovery <br></br>- Lessons learned"
+        },
+        { 
+          "q" : "What is NIST?",
+          "a" : "A cyber security framework"
+        },
+        {
+          "q" : "What is the difference between IaaS and PaaS?",
+          "a" : "IaaS products allow organizations to manage their business resources - such as their network, servers, and data storage - on the cloud. PaaS products allow businesses and developers to host, build, and deploy consumer facing apps."
+        },
+        {
+          "q" : "Control Frameworks",
+          "a" : "Examples of control frameworks in cybersecurity include the Center for Internet Security (CIS) Controls, which consists of 20 critical security controls, and the Payment Card Industry Data Security Standard (PCI DSS), which provides a set of requirements for securing credit card data and transactions."
+        },
+        {
+        "q" : "Program Frameworks",
+        "a" : "Program frameworks function as a roadmap for building and maintaining a strong cybersecurity program. Common cybersecurity frameworks include NIST, CIS, and ISO/IEC 27001."
+        },
+        {
+        "q" : "Risk Frameworks",
+        "a" : "Risk frameworks in cybersecurity are essential tools used by organizations to identify, assess, and manage cybersecurity risks. They provide a structured approach to risk management, allowing organizations to identify and prioritize potential threats."
+        },
+        {
+          "q" : "What is the Public Cloud model?",
+          "a" : "This model is applied when public cloud service providers make computing services—including compute and storage, develop-and-deploy environments, and applications—available on-demand to organizations and individuals over the public internet."
+        },
+        {
+          "q" : "What is the Community Cloud model?",
+          "a" : "Community Cloud allows system and services to be accessible by group of organizations. In this model, the infrastructure is shared between several organizations from a specific community. It may be managed internally by organizations or by the third-party."
+        },
+        {
+          "q" : "What is the Private Cloud model?",
+          "a" : "A Private Cloud is a model of cloud computing where the infrastructure is dedicated to a single user organization. A private cloud can be hosted either at an organization’s own data center, at a third party colocation facility, or via a private cloud provider who offers private cloud hosting services "
+        },
+        {
+          "q" : "What is the Hybrid Cloud Model?",
+          "a" : "The Hybrid Cloud model consists of public and private clouds that the end user or organization has access to. The public version of the cloud, and the private version of the cloud may provide different services that compliment one-another."
+        },
+        {
+          "q" : "What is the difference between an MSP and an MSSP?",
+          "a" : "An MSP ensures your IT infrastructure and systems are operational, while an MSSP will ensure that your people and systems are both safe and compliant. An MSSP will also step in to help with incident detection and response."
+        },
+        {
+          "q" : "What is the difference between Fog Computing and Edge Computing?",
+          "a" : "Fog computing takes place further away (in physical distance) from the systems that are generating data. On the other hand, Edge computing takes place right on the devices attached to the sensors or systems generating the data, or in some cases, on a gateway device that is physically close to the point of data creation. Edge Computing is closer to the application, whereas Fog Computing is closer the main server(s) / processor(s) powering the applications."
+        },
+        {
+          "q" : "What might SDN stand for?",
+          "a" : "Software-Defined Networking (SDN) is an approach to networking that uses software-based controllers or application programming interfaces (APIs) to communicate with underlying hardware infrastructure and direct traffic on a network. This model differs from that of traditional networks, which use dedicated hardware devices (i.e., routers and switches) to control network traffic. SDN can create and control a virtual network or control traditional hardware via software."
+        },
+        {
+          "q" : "What might SDV Stand For?",
+          "a" : "Software Defined Visibility - This is a framework that allows customers, security partners, managed service providers and others to automate detection, reaction and response to threats and programmatically adapt security policies to network changes. SDV utilizes software to make parst of the network visible and adaptable."
+        },
+        {
+          "q" : "What is Virtual Machine escape or VM Escape?",
+          "a" : "Virtual Machine escape is the process of a program breaking out of the virtual machine on which it is running and interacting with the host operating system."
+        },
+        {
+          "q" : "What is a VDI?",
+          "a" : "Virtual Desktop Environment"
+        },
+        {
+          "q" : "What is FDE?",
+          "a" : "Full Disk Encryption"
+        },
+        {
+          "q" : "Name one example of communication that SRTP might be used for?",
+          "a" : "While SRTP might be used for other forms of communication, it is mostly likely to be used for Voice over IP (VoIP)."
+        },
+        {
+          "q" : "What term can be used to indicate ownership, auqisition of and custody for digital artifacts?",
+          "a" : "Provenance. The provenance of a forensic artifact includes the chain of custody as well as acquisition and ownership of the artifact (i.e., device or image)."
+        }
+      ]
     }
-]
+  ] 
+}
