@@ -78,6 +78,18 @@
         {
           "q" : "What term can be used to indicate ownership, auqisition of and custody for digital artifacts?",
           "a" : "Provenance. The provenance of a forensic artifact includes the chain of custody as well as acquisition and ownership of the artifact (i.e., device or image)."
+        },
+        { 
+          "q" : "Amazon Cloud Services and Azure Cloud Services are an example of what type of service?",
+          "a" : "A Platform as a Service or PaaS."
+        },
+        {
+          "q" : "Amazon EC2 Servers and Google Cloud Storage Services are an example of what type of service?",
+          "a" : "An Infrastructor as a Service or IaaS."
+        },
+        {
+          "q" : "What are the 7 steps of the Cyber Kill Chain model?",
+          "a" : "1. Reconnaissance: The attacker gathers information abou the target system or organization. <br></br> 2. Weaponization: The attacker creates or acquires a weapon, such as malware or a phishing email. <br></br> 3. Delivery: The attacker delivers the weapon to the target system, often through email or a compromised website. <br></br> 4. Exploitation: The weapon is used to exploit a vulnerability in the system. <br></br> 5. Installation: The attacker installs the payload or malware on the target system. <br></br> 6. Command and Control: The attacker establishes a connection to the compromised system and gains control over it. <br></br> 7. Actions on Objectives: The attacker carries out their intended actions, which could include stealing data, disrupting operations, or causing damage."
         }
       ]
     }
