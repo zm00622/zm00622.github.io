@@ -1,0 +1,3177 @@
+{
+    "categories": [
+      {
+        "name": "NetworkingFundamentals",
+        "questions": [
+          {
+            "q": "OSI Model",
+            "a": "- Physical<br>- Data link<br>- Network<br>- Transport<br>- Session<br>- Presentation<br>- Application"
+          },
+          {
+            "q": "Ethernet header",
+            "a": "The header added to data frames in Ethernet networks, containing source and destination MAC addresses and other control information."
+          },
+          {
+            "q": "Internet Protocol (IP) header",
+            "a": "The header added to IP packets containing source and destination IP addresses and other control information."
+          },
+          {
+            "q": "Transmission Control Protocol (TCP)/User Datagram Protocol (UDP) headers",
+            "a": "Headers added to TCP/UDP segments containing port numbers and other control information."
+          },
+          {
+            "q": "TCP flags",
+            "a": "These are control bits within the TCP header that determine the status of a TCP connection or specific communication options."
+          },
+          {
+            "q": "Payload",
+            "a": "It refers to the actual data being transmitted within a packet or frame. The payload does not include the headers or control information."
+          },
+          {
+            "q": "Maximum transmission unit (MTU)",
+            "a": "MTU is the largest size of a packet or frame that can be transmitted over a network without being fragmented into smaller units."
+          },
+          {
+            "q": "Mesh",
+            "a": "A network topology where every device is connected to every other device, providing redundancy and multiple paths for data transmission."
+          },
+          {
+            "q": "Star/hub-and-spoke",
+            "a": "A network topology where all devices are connected to a central hub or switch, which manages the data flow between them."
+          },
+          {
+            "q": "Bus",
+            "a": "A network topology where all devices are connected to a single communication line, and data is transmitted in both directions."
+          },
+          {
+            "q": "Ring",
+            "a": "A network topology where devices are connected in a circular fashion, and data travels in a unidirectional loop."
+          },
+          {
+            "q": "Hybrid",
+            "a": "A combination of two or more network topologies, allowing for more flexible and scalable network designs."
+          },
+          {
+            "q": "Peer-to-peer",
+            "a": "A network model where devices can communicate directly with each other without relying on a central server."
+          },
+          {
+            "q": "Client-server",
+            "a": "A network model where clients (devices) request services or resources from a central server that fulfills these requests."
+          },
+          {
+            "q": "Local area network (LAN)",
+            "a": "A network that covers a small geographic area, typically within a single building or campus."
+          },
+          {
+            "q": "Metropolitan area network (MAN)",
+            "a": "A network that spans a larger area than a LAN, usually covering a city or metropolitan area."
+          },
+          {
+            "q": "Wide area network (WAN)",
+            "a": "A network that extends over a large geographical area, connecting LANs and MANs over long distances."
+          },
+          {
+            "q": "Wireless local area network (WLAN)",
+            "a": "A LAN that uses wireless communication to connect devices."
+          },
+          {
+            "q": "Personal area network (PAN)",
+            "a": "A network designed for communication between personal devices in close proximity, such as Bluetooth connections."
+          },
+          {
+            "q": "Campus area network (CAN)",
+            "a": "A network that interconnects LANs within a specific geographical area, like a university campus."
+          },
+          {
+            "q": "Storage area network (SAN)",
+            "a": "A specialized network that provides access to shared storage devices, enabling high-speed data storage and retrieval."
+          },
+          {
+            "q": "Software-defined wide area network (SDWAN)",
+            "a": "A network architecture that uses software-defined techniques to manage and optimize WAN connections."
+          },
+          {
+            "q": "Multiprotocol label switching (MPLS)",
+            "a": "A routing technique that uses labels to direct data packets along predefined paths, improving network performance and efficienc."
+          },
+          {
+            "q": "Multipoint generic routing encapsulation (mGRE)",
+            "a": "A tunneling protocol used to enable communication between multiple endpoints over an IP network."
+          },
+        {
+          "q": "Demarcation point",
+          "a": "The physical point where a service provider's network ends and the customer's network begins, typically located at the customer premises."
+        },
+        {
+          "q": "Smartjack",
+          "a": "A device used at the demarcation point to monitor and diagnose the connection between the service provider and the customer's network."
+        },
+        {
+          "q": "vSwitch",
+          "a": "A virtual switch used in virtualized environments to manage network traffic between virtual machines (VMs) on the same host."
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        }
+          // Add more questions and answers for NetworkingFundamentals category
+          // ...
+        ]
+      },
+      {
+        "name": "NetworkImplementations",
+        "questions": [
+          {
+            "q": "Layer 2 switch",
+            "a": "A type of network switch that operates on the data link layer (OSI Layer 2) and uses MAC addresses to forward frames."
+          },
+          {
+            "q": "Layer 3 capable switch",
+            "a": "A network switch that can also perform routing functions, allowing it to make decisions based on IP addresses."
+          },
+          {
+            "q": "Router",
+            "a": "A network device that connects different networks and forwards data packets between them based on IP addresses."
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          }
+        ]
+      },
+      {
+        "name": "NetworkOperations",
+        "questions": [
+          {
+            "q": "Temperature",
+            "a": "A network metric indicating the temperature level in network equipment to monitor for potential overheating issues."
+          },
+          {
+            "q": "Central processing unit (CPU) usage",
+            "a": "A network metric indicating the CPU utilization in network devices, which can help identify performance bottlenecks."
+          },
+          {
+            "q": "Memory",
+            "a": "A network metric indicating the memory usage in network devices, which can affect overall performance."
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        }
+          // Add more questions and answers for NetworkingFundamentals category
+          // ...
+        ]
+      },
+      {
+        "name": "NetworkImplementations",
+        "questions": [
+          {
+            "q": "Layer 2 switch",
+            "a": "A type of network switch that operates on the data link layer (OSI Layer 2) and uses MAC addresses to forward frames."
+          },
+          {
+            "q": "Layer 3 capable switch",
+            "a": "A network switch that can also perform routing functions, allowing it to make decisions based on IP addresses."
+          },
+          {
+            "q": "Router",
+            "a": "A network device that connects different networks and forwards data packets between them based on IP addresses."
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          }
+        ]
+      },
+      {
+        "name": "NetworkSecurity",
+        "questions": [
+          {
+            "q": "Confidentiality, integrity, availability (CIA)",
+            "a": "The three main goals of network security: keeping data confidential, ensuring data integrity, and maintaining data availability."
+          },
+          {
+            "q": "Internal Threats",
+            "a": "Security risks that come from within an organization, such as disgruntled employees or accidental breaches."
+          },
+          {
+            "q": "External Threats",
+            "a": "Security risks that come from outside an organization, such as hackers and cybercriminals."
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        }
+          // Add more questions and answers for NetworkingFundamentals category
+          // ...
+        ]
+      },
+      {
+        "name": "NetworkImplementations",
+        "questions": [
+          {
+            "q": "Layer 2 switch",
+            "a": "A type of network switch that operates on the data link layer (OSI Layer 2) and uses MAC addresses to forward frames."
+          },
+          {
+            "q": "Layer 3 capable switch",
+            "a": "A network switch that can also perform routing functions, allowing it to make decisions based on IP addresses."
+          },
+          {
+            "q": "Router",
+            "a": "A network device that connects different networks and forwards data packets between them based on IP addresses."
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          }
+        ]
+      },
+      {
+        "name": "NetworkTroubleshooting",
+        "questions": [
+          {
+            "q": "Identify the problem",
+            "a": "The first step in network troubleshooting, where the issue is recognized and documented."
+          },
+          {
+            "q": "Establish a theory of probable cause",
+            "a": "Creating a hypothesis about the cause of the problem based on available information."
+          },
+          {
+            "q": "Test the theory to determine the cause",
+            "a": "Conducting tests to confirm or refute the hypothesis and narrow down the issue."
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        }
+          // Add more questions and answers for NetworkingFundamentals category
+          // ...
+        ]
+      },
+      {
+        "name": "NetworkImplementations",
+        "questions": [
+          {
+            "q": "Layer 2 switch",
+            "a": "A type of network switch that operates on the data link layer (OSI Layer 2) and uses MAC addresses to forward frames."
+          },
+          {
+            "q": "Layer 3 capable switch",
+            "a": "A network switch that can also perform routing functions, allowing it to make decisions based on IP addresses."
+          },
+          {
+            "q": "Router",
+            "a": "A network device that connects different networks and forwards data packets between them based on IP addresses."
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          }
+        ]
+      }
+    ]
+  }
+  

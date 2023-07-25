@@ -1,0 +1,336 @@
+{
+  "categories" : [
+    { 
+      "name": "Attacks",
+      "questions": [
+        {
+          "q": "Meet Skylark. Skylark is a hacker. Last weekend, Skylark drilled a hole through the roof of his van. He then passed a cable through this hole and attached a yagi antenna to the top of the van. \n \nWith a new tool in his tool kit, Skylark has been driving around his city. He will stop at random street corners, then point his antenna in different directions to see if he can pick up any unsecured Wireless Access Points (i.e., WAPs). \n \nWhat method of hacking is this called?<br>Wartagging<br>Warchalking<br>Wardriving<br>Snooping",
+          "a": "Wardriving"
+      },
+      {
+          "q": "While Skylark drives around looking for unsecure Wirless Access Points (i.e., WAPs), he makes it a point to make note of where each unsecure WAP is located. \n \nAfter three months, Skylark is able to assemble a map that shows the locations of over 25 unsecure WAPs in his city. \n \nWhat is this name of this technique?<br>Wartagging<br>Warchalking<br>Wardrive Mapping<br>Community Outreach",
+          "a": "Warchalking"
+      },
+      {
+          // 3
+          "q": "Meet Yang. Yang has just been accepted as a foreign exchange student for one of America's most prestiegious schools. Before leaving his home country, a government official gave Yang several flash drives armed with malware and viruses. He has rosey cheeks and seems innocent, where in all reality, his government has sent him over with nefarious motives. \n \nWhen Yang installs one of the drives on the computer in his dorm, a bot net of computers in his home country then begins to send thousands of requests to the host provider of his dormatory computer. Before Yang knows it, all of the students in his dormitory are claiming to be kicked off-line. \n \nWhat type of attack is this?",
+          
+              "Distributed Denial of Service Attack, or DDoS. A DDoS attack occurs when multiple infected computers are used to spam servers from multiple locations. In this case, infected computers in Yangs home country are now sending thousands of requests to the network servers the dormitory is connected to.",
+              "Denial of Service Attack, or DoS. A DoS attack occurs when numerous requests are sent to the network servers. In this case, since Yangs network cannot handle the request, the computers in his dormitory have dropped off the network.",
+              "This is a Smurf Attack. Smurf Attacks utilize IP broadcasting and IP spoofing to send so many packets that everything shuts down. This type of attack can be detected due to a large number of ICMP network replies.",
+              "MitM - Man in the Middle Attack. In this case, since Yang is acting on the behalf of someone else (i.e., his home government), he is consider a Man in the Middle. In short, Yang did not write the malware, but he knows about it, and he is the vehicle being used for it's success."
+          ],
+          "a": "Distributed Denial of Service Attack, or DDoS. A DDoS attack occurs when multiple infected computers are used to spam servers from multiple locations. In this case, infected computers in Yangs home country are now sending thousands of requests to the network servers the dormitory is connected to."
+      },
+      {
+          // 4
+          "q": "A software program has been written to identify as a known and legitmate company. The goal is to trick other companies into downloading the software by making them think it comes from the known and trusted source. \n \nWhat is the name of this attack?",
+          
+              "Evil Twin - An Evil Twin is a software program that is branded to mock a known good piece of software. By all appearances, the software looks the same, but really it is malicious.",
+              "This is an excellent example of an ARP Spoofing attack.",
+              "This is what is referred to as a False Identity Hack (i.e., FIH). ",
+              "Spoofing Attack - A situation where a person or program identifies as another by falsifying data."
+          ],
+          "a": "Spoofing Attack - A situation where a person or program identifies as another by falsifying data."
+      },
+      {
+          // 5
+          "q": "A hacker has convinced a gate guard into letting them enter the facility. \n \nTo his surprise, getting into the facility was as simple as telling the gate guard, \"I forgot my ID. I have an hour commute, can you please just let me in?\" \n \nWhat type of attack is this?",
+          
+              "Social Engineering - Social Engineering is using the context of situation to manipulate a person or a group of people.",
+              "Social Manipulation - Social Manipulation is using the context of situation to manipulate a person or a group of people.",
+              "Peer Pressure - Peer Pressure is using the context of situation to manipulate a person or a group of people.",
+              "Spit Balling - Spit Balling is using the context of situation to manipulate a person or a group of people."
+          ],
+          "a": "Social Engineering - Social Engineering is using the context of situation to manipulate a person or a group of people."
+      },
+      {
+          // 6
+          "q": "A hacker is spamming a network server with a bunch of requests to kill bandwidth and deny service to real users. \n \nWhat type of attack is this?",
+          
+              "Smurf Attack - Because this attack involves spamming, it is directly connected to a Smurf Attack.",
+              "Bandwidth Attack - Because this attack targets bandwidth, it is directly connected to a bandwidth attack.",
+              "Denial of Service Attack - Because this attack targets a server with multiple requests, it is generally defined as Denial of Service Attack. \n \n(Note: There are several different kinds of DoS Attacks).",
+              "Server Attack - Because this attack targets the server, this attack is generally referred to as a server attack."
+          ],
+          "a": "Denial of Service Attack - Because this attack targets a server with multiple requests, it is generally defined as Denial of Service Attack. \n \n(Note: There are several different kinds of DoS Attacks)."
+      },
+      {
+          // 7
+          "q": "Often times, a DoS attack is actually a DDoS attack. The difference here, is that a DDoS attack will use multiple different clients to attack the victims server. Instead of sending the flood of requests from one computer, hundreds of computers are often used to flood the victims server. \n \nSince a bot not is already in place for DDoS attacks, it is often easy to trick third party computers into launching and performing the attack, thereby hiding the identity of the attacker. \n \nWhat might this be an example of?",
+          
+              "HI DoS Attack - Hidden Identity Denial of Service Attack. This method tricks a third party into performing the attack to hide the identity of the culprit.",
+              "NIX Attack - New Identity XML Request Attack. These attacks submit XML requests from a hidden (i.e., New) identity.",
+              "Hidden Request Attack - This type of attack sends numerous requests to the victims server.",
+              "Reflected DDoS Attack - This method tricks a third party into performing the attack to hide the identity of the culprit."
+          ],
+          "a": "Reflected DDoS Attack - This method tricks a third party into performing the attack to hide the identity of the culprit."
+      },
+      {
+          // 8 
+          "q": "This attack utilizes IP broadcasting and IP spoofing to send so many packets that everything shuts down. This type of attack can be detected due to a large number of ICMP network replies",
+          
+              "Smurf Attack",
+              "Logic Bomb",
+              "Bluejacking",
+              "Bluesnarfing"
+          ],
+          "a": "Smurf Attack"
+      },
+      {
+          // 9 
+          "q": "Tricking a local network into confusing the attacker’s mac address with a key route link, like the default gateway of that network, and causing the data to be sent to the attacker instead, is an example of what type of attack?",
+          
+              "ARP Spoofing, or Address Resolution Protocol Spoofing (Also known as: ARP Cache Poisoning)",
+              "Rogue Access Point",
+              "Evil Twin",
+              "Double Tagging"
+          ],
+          "a": "ARP Spoofing, or Address Resolution Protocol Spoofing (Also known as: ARP Cache Poisoning)"
+      },
+      {
+          // 10 Stopped Here
+          "q": "This is a wireless access point that has been installed on a secure network without authorization from a network administrator.",
+          
+              "VLAN Mock",
+              "Evil Twin",
+              "Rogue Access Point",
+              "Ransom WAP"
+          ],
+          "a": "Rogue Access Point"
+      },
+      {
+          // 10 Stopped Here
+          "q": "This is a rogue access point that hi-jacks traffic from a network by cloning the identity of another access point and trying to trick un-knowing users onto the network. An example would be a coffee shop. Unbeknownst to the coffee shop, there could be a hacker in their parking lot who is running a network with the same name as the coffee shop. The idea being: trick users onto his or her network.",
+          
+              "Evil Twin",
+              "Mock Access Point",
+              "Fraudulent WAP",
+              "Bluejacking"
+          ],
+          "a": "Evil Twin"
+      },
+      {
+          // 10 Stopped Here
+          "q": "Unsolicited messages to bluetooth would be an example of what type of attack?",
+          
+              "Bluejacking",
+              "Bluesnarfing",
+              "Bluetooth Spamming",
+              "Bluetooth Hacking"
+          ],
+          "a": "Bluejacking"
+      },
+      {
+          // 10 Stopped Here
+          "q": "Unauthorized access to a device through bluetooth would be an example of what type of attack?",
+          
+              "Bluejacking",
+              "Bluehacking",
+              "Bluesnarfing",
+              "Bluesnooping"
+          ],
+          "a": "Bluesnarfing"
+      },
+      {
+          // 10 Stopped Here
+          "q": "In this attack, the hacker hides in the middle of a communication to either listen or manipulate the conversation between users and devices.",
+          
+              "Liaison Attack",
+              "Covert Attack",
+              "Man in the Middle Attack",
+              "Hide and Seek Attack"
+          ],
+          "a": "Man in the Middle Attack"
+      },
+      {
+          // 10 Stopped Here
+          "q": "In this type of attack, an attacker is able to send traffic from one VLAN into another.",
+          
+              "VLAN Tagging",
+              "VLAN Hopping",
+              "VLAN Hacking",
+              "VLAN Switching"
+          ],
+          "a": "VLAN Hopping"
+      },
+      {
+          // 10 Stopped Here
+          "q": "In this type of attack, the hacker uses two IP tags to trick switches and routers into a VLAN Hop (i.e, to trick the Network that is not yours into letting you in. Thus you hop from your network, into the neighboring network)",
+          
+              "Doce Tagging",
+              "IP Tagging",
+              "VLAN Tagging",
+              "Double Tagging"
+          ],
+          "a": "Double Tagging"
+      },
+      {
+          // 10 Stopped Here
+          "q": "A hacker has been snooping on a company and she knows information about the companies software that none of the developers at the company know. In short, the hacker knows more about the companies vulnerabilities than does the actual company writing the software. When the company finally released their new product, the hacker was able to exploit a bug the development team did not know about prior to launch. \n \nWhat type of attack is this?",
+          
+              "Zero Day Attack",
+              "First Day Attack",
+              "Ignorance Attack",
+              "Vulnerability Attack"
+          ],
+          "a": "Zero Day Attack"
+      },
+      {
+          // 10 Stopped Here
+          "q": "A virus that only activates under certain conditions is called what",
+          
+              "Conditional Virus",
+              "Conditional Bomb",
+              "Logic Virus",
+              "Logic Bomb"
+          ],
+          "a": "Logic Bomb"
+      },
+      {
+          // 10 Stopped Here
+          "q": "This type of virus is a standalone self-replicating virus that is able to self-propogate from victim to victim.",
+          
+              "Worm",
+              "Trojan Horse",
+              "Virus",
+              "Self-Propogating Virus"
+          ],
+          "a": "Worm"
+      },
+      {
+          // 10 Stopped Here
+          "q": "A virus that disguises itself within a useful program (i.e., you download a simple browser extension, say, a spell checker, and it then logs your keystrokes to get your passwords.)",
+          
+              "Trojan Horse",
+              "Trojan Star",
+              "Trojan Virus",
+              "Trojan Seahorse"
+          ],
+          "a": "Trojan Horse"
+      },
+      {
+          // 10 Stopped Here
+          "q": "This type of virus encrypts or blocks functions on a computer until a specific action has been performed (often, sending money)",
+          
+              "Theftware",
+              "Encryption-ware",
+              "Ransom Virus",
+              "Ransomware"
+          ],
+          "a": "Ransomware"
+      },
+      {
+          // 10 Stopped Here
+          "q": "This type of software is not technically malware because it was not created with mal-intent, however, it is software that is bad for your system.",
+          
+              "Grayware",
+              "Whiteware",
+              "Roughware",
+              "Bugware"
+          ],
+          "a": "Grayware"
+      },
+      {
+          // 10 Stopped Here
+          "q": "In this attack, hackers redirect web traffic toward fake web servers and phishing websites.",
+          
+              "DNS Switching Hoax",
+              "DNS Poisoning",
+              "DNS Record Switching",
+              "DNS Hijacking"
+          ],
+          "a": "DNS Poisoning"
+      },
+      {
+          // 10 Stopped Here
+          "question": "An example of this attack would be an email that appears to be from a trusted source, but really is the disguised identity of a hacker. Another example would be a cloned version of a health care website that tries to steal user data or trick customers into logging in to the wrong site.<br></br>Spoofing <br></br>Cloning <br></br>False Identity Attack (i.e., FIA) <br></br>Social Engineering",
+          "a": "Spoofing"
+      }
+      ]
+    },
+    { 
+      "name": "Cables",
+      "questions": [
+        {
+          "q" : "What are the steps involved in the incident response process?",
+          "a" : " - Preparation <br></br>- Identification <br></br>- Containment <br></br>- Eradication <br></br>- Recovery <br></br>- Lessons learned"
+        }
+      ]
+    },
+    { 
+      "name": "IpAddresses",
+      "questions": [
+        {
+          "q" : "What are the steps involved in the incident response process?",
+          "a" : " - Preparation <br></br>- Identification <br></br>- Containment <br></br>- Eradication <br></br>- Recovery <br></br>- Lessons learned"
+        }
+      ]
+    },
+    { 
+      "name": "LayerModels",
+      "questions": [
+        {
+          "q" : "What are the steps involved in the incident response process?",
+          "a" : " - Preparation <br></br>- Identification <br></br>- Containment <br></br>- Eradication <br></br>- Recovery <br></br>- Lessons learned"
+        }
+      ]
+    },
+    { 
+      "name": "Mnemonics",
+      "questions": [
+        {
+          "q" : "What are the steps involved in the incident response process?",
+          "a" : " - Preparation <br></br>- Identification <br></br>- Containment <br></br>- Eradication <br></br>- Recovery <br></br>- Lessons learned"
+        }
+      ]
+    },
+    { 
+      "name": "Other",
+      "questions": [
+        {
+          "q" : "What are the steps involved in the incident response process?",
+          "a" : " - Preparation <br></br>- Identification <br></br>- Containment <br></br>- Eradication <br></br>- Recovery <br></br>- Lessons learned"
+        }
+      ]
+    },
+    { 
+      "name": "PortNumbers",
+      "questions": [
+        {
+          "q" : "What are the steps involved in the incident response process?",
+          "a" : " - Preparation <br></br>- Identification <br></br>- Containment <br></br>- Eradication <br></br>- Recovery <br></br>- Lessons learned"
+        }
+      ]
+    },
+    { 
+      "name": "Subnetting",
+      "questions": [
+        {
+          "q" : "What are the steps involved in the incident response process?",
+          "a" : " - Preparation <br></br>- Identification <br></br>- Containment <br></br>- Eradication <br></br>- Recovery <br></br>- Lessons learned"
+        }
+      ]
+    },
+    { 
+      "name": "Troubleshooting",
+      "questions": [
+        {
+          "q" : "What are the steps involved in the incident response process?",
+          "a" : " - Preparation <br></br>- Identification <br></br>- Containment <br></br>- Eradication <br></br>- Recovery <br></br>- Lessons learned"
+        }
+      ]
+    },
+    { 
+      "name": "Typologies",
+      "questions": [
+        {
+          "q" : "What are the steps involved in the incident response process?",
+          "a" : " - Preparation <br></br>- Identification <br></br>- Containment <br></br>- Eradication <br></br>- Recovery <br></br>- Lessons learned"
+        }
+      ]
+    }
+  ] 
+}
+
+
