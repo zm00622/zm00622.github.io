@@ -90,8 +90,34 @@
         {
           "q" : "What are the 7 steps of the Cyber Kill Chain model?",
           "a" : "1. Reconnaissance: The attacker gathers information abou the target system or organization. <br></br> 2. Weaponization: The attacker creates or acquires a weapon, such as malware or a phishing email. <br></br> 3. Delivery: The attacker delivers the weapon to the target system, often through email or a compromised website. <br></br> 4. Exploitation: The weapon is used to exploit a vulnerability in the system. <br></br> 5. Installation: The attacker installs the payload or malware on the target system. <br></br> 6. Command and Control: The attacker establishes a connection to the compromised system and gains control over it. <br></br> 7. Actions on Objectives: The attacker carries out their intended actions, which could include stealing data, disrupting operations, or causing damage."
+        },
+        {
+          "q" : "What is the difference between a SOC Type 1 report and a SOC Type 2 report?",
+          "a" : "The Type 1 report is a short brief moment in time analysis and attempt to validate the effectiveness of your organizations controls. The Type 2 report is a more extended analysis that usually takes up to 12 months. A Type 2 report is much more thorough and intensive."
+        },
+        {
+          "q" : "What is the difference between SOC 1 and SOC 2?",
+          "a" : "SOC 1 is focused on the security of your organizations financial information, whereas SOC 2 is focused on the security of your organization at large."
+        },
+        {
+          "q" : "The National Institute of Standards and Technology (NIST) Risk Management Framework (RMF) is broken down into 7 steps. What are they?",
+          "a" : "1. Prepare: Prepare the organization for the management of security and privacy risks <br></br> 2. Categorize system: Categorize the system and information processed, stored, and transmitted based on an impact analysis. <br></br> 3. Select controls: Select the set of NIST (Currently SP 800-53) controls to protect the system based on risk assessment(s) <br></br> 4. Implement controls: Implement and document how the controls are being used. <br></br> 5. Assess controls: Determine whether or not the controls are working as intended. <br></br> 6. Authorize system: A senior official will consider the risks and either deny or grant authorization for the system to continue its operation. <br></br> 7. Monitor controls: Continuous monitorization of the system and risks possed to it is then required."
+        },
+        {
+          "q" : "What function does counter mode perform in a cryptographic system?",
+          "a" : "Counter mode (CTR) makes a block cipher into a stream cipher."
+        },
+        {
+          "q" : "Name three channels on the 2.4GHz band that are far enough away from one another such that they do not cause overlap.",
+          "a" : "Channels 1, 6 and 11 are often choosen as non-overlapping channels."
+        },
+        {
+          "q" : "What two ports are most commonly used for FTPS?",
+          "a" : "Ports 21 & 990."
         }
       ]
     }
   ] 
 }
+
+
