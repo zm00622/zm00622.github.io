@@ -1,72 +1,16 @@
 {
     "questions": [
       {
-        "question_one": {
+        "q1": {
           "text": "What type of fallacy is being used in the video below?",
           "video": "<iframe width=\"660\" height=\"415\" src=\"https://www.youtube.com/embed/lG3748LYtM0?si=SR4KDxbTDUYeATbF\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
-          "answer": "B",
-          "feedback": "The correct answer is Red Herring Fallacy. This is due to the fact that the politician in the video never comes out and answers the question. Instead, he diverts the attention away from the original question and changes the subject.",
-          "student_response": "",
-          "question_level_feedback": "This is a Red Herring Fallacy",
-          "option_1": "Non-Sequitur",
-          "option_2": "Red Herring",
-          "option_3": "Straw Man",
-          "option_4": "Man in the Middle"
-        }
-      },
-      {
-        "question_two": {
-          "text": "question 2",
-          "answer": "A",
-          "feedback": "Explanation...",
-          "student_response": "",
-          "question_level_feedback": "",
-          "option_1": "q2a",
-          "option_2": "q2b",
-          "option_3": "q2c",
-          "option_4": "q2d"
-        }
-      },
-      {
-        "question_three": {
-          "text": "question 3",
-          "answer": "A",
-          "feedback": "Explanation...",
-          "student_response": "",
-          "question_level_feedback": "",
-          "option_1": "q3a",
-          "option_2": "q3b",
-          "option_3": "q3c",
-          "option_4": "q3d"
-        }
-      },
-      {
-        "question_four": {
-          "text": "question 4",
-          "answer": "A",
-          "feedback": "Explanation...",
-          "student_response": "",
-          "question_level_feedback": "",
-          "option_1": "q4a",
-          "option_2": "q4b",
-          "option_3": "q4c",
-          "option_4": "q4d"
-        }
-      },
-      {
-        "question_five": {
-          "text": "question 5",
-          "answer": "A",
-          "feedback": "Explanation...",
-          "student_response": "",
-          "question_level_feedback": "",
-          "option_1": "q5a",
-          "option_2": "q5b",
-          "option_3": "q5c",
-          "option_4": "q5d"
+          "answer": "b",
+          "wrong_feedback": "You are wrong, the correct answer is Red Herring Fallacy. This is due to the fact that the politician in the video never comes out and answers the question. Instead, he diverts the attention away from the original question and changes the subject.",
+          "correct_feedback": "Good Job, you are right!This is a Red Herring Fallacy",
+          "a": "Non-Sequitur",
+          "b": "Red Herring",
+          "c": "Straw Man",
+          "d": "Man in the Middle"
         }
       }
-    ]
-  }
-  
-  
+}
