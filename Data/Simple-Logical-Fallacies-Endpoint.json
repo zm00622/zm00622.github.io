@@ -1,0 +1,96 @@
+{
+    "fallacies": [
+        {
+            "1": {
+                "Straw Man Fallacy": "Misrepresenting someone's argument to make it easier to attack."
+            },
+            "2": {
+                "Red Herring Fallacy": "Introducing an irrelevant point into an argument to distract from the original issue."
+            },
+            "3": {
+                "Ad Hominem Fallacy": "Attacking the person making the argument rather than the argument itself."
+            },
+            "4": {
+                "Appeal to Ignorance Fallacy": "Claiming something is true because it hasn't been proven false."
+            },
+            "5": {
+                "False Dilemma Fallacy": "Presenting two options as the only possibilities when others exist."
+            },
+            "6": {
+                "Slippery Slope Fallacy": "Asserting that a relatively small first step leads to a chain of related events culminating in some significant effect."
+            },
+            "7": {
+                "Circular Reasoning Fallacy": "The argument repeats what is assumed to prove it."
+            },
+            "8": {
+                "Hasty Generalization Fallacy": "Making a broad generalization based on a small sample size."
+            },
+            "9": {
+                "Post Hoc Fallacy": "Assuming that because one event followed another, it was also caused by it."
+            },
+            "10": {
+                "Appeal to Authority Fallacy": "Believing something is true because an authority figure believes it."
+            },
+            "11": {
+                "Bandwagon Fallacy": "Assuming something is true or right because many people agree with it."
+            },
+            "12": {
+                "Begging the Question Fallacy": "The premise includes the claim that the conclusion is true."
+            },
+            "13": {
+                "False Cause Fallacy": "Presuming that a real or perceived relationship between things means that one is the cause of the other."
+            },
+            "14": {
+                "Appeal to Emotion Fallacy": "Manipulating an emotional response in place of a valid or compelling argument."
+            },
+            "15": {
+                "Equivocation Fallacy": "Using an ambiguous term in more than one sense, thus making an argument misleading."
+            },
+            "16": {
+                "Tu Quoque Fallacy": "Avoiding having to engage with criticism by turning it back on the accuser - answering criticism with criticism."
+            },
+            "17": {
+                "Appeal to Tradition Fallacy": "Assuming that something is better or correct simply because it is older or traditional."
+            },
+            "18": {
+                "Composition Fallacy": "Assuming that what is true of the part is true for the whole."
+            },
+            "19": {
+                "Division Fallacy": "Assuming that what is true of the whole is true for the parts."
+            },
+            "20": {
+                "No True Scotsman Fallacy": "Making an appeal to purity as a way to dismiss relevant criticisms or flaws of an argument."
+            },
+            "21": {
+                "Anecdotal Fallacy": "Using a personal experience or an isolated example instead of a sound argument or compelling evidence."
+            },
+            "22": {
+                "Middle Ground Fallacy": "Assuming that the compromise between two positions is always correct."
+            },
+            "23": {
+                "Appeal to Nature Fallacy": "Arguing that because something is natural it is therefore valid, justified, inevitable, good, or ideal."
+            },
+            "24": {
+                "Gambler's Fallacy": "Believing that past random events affect the probabilities in the random event at hand."
+            },
+            "25": {
+                "Burden of Proof Fallacy": "Saying that the burden of proof lies not with the person making the claim, but with someone else to disprove."
+            },
+            "26": {
+                "Personal Incredulity Fallacy": "Saying that because one finds something difficult to understand that it's therefore not true."
+            },
+            "27": {
+                "Genetic Fallacy": "Judging something good or bad on the basis of where it comes from or from whom it comes."
+            },
+            "28": {
+                "Special Pleading Fallacy": "Making up exceptions when a claim is shown to be false."
+            },
+            "29": {
+                "Loaded Question Fallacy": "Asking a question that has an assumption built into it so that it can't be answered without appearing guilty."
+            },
+            "30": {
+                "Texas Sharpshooter Fallacy": "Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption."
+            }
+        }
+    ]
+}
